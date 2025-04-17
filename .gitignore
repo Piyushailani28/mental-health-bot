@@ -172,3 +172,50 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Backend (Python)
+Backend/__pycache__/
+Backend/*.py[cod]
+Backend/*$py.class
+Backend/.env
+Backend/env/
+Backend/venv/
+Backend/.venv/
+Backend/build/
+Backend/dist/
+Backend/*.egg-info/
+Backend/.eggs/
+Backend/*.egg
+Backend/.tox/
+Backend/.nox/
+Backend/.coverage
+Backend/.coverage.*
+Backend/.cache
+Backend/nosetests.xml
+Backend/coverage.xml
+Backend/*.cover
+Backend/*.py,cover
+Backend/.hypothesis/
+Backend/.pytest_cache/
+Backend/cover/
+Backend/.mypy_cache/
+Backend/.dmypy.json
+Backend/dmypy.json
+Backend/.pyre/
+Backend/.pytype/
+Backend/cython_debug/
+
+# Frontend (React)
+Frontend/node_modules/
+Frontend/.env
+Frontend/build/
+Frontend/dist/
+Frontend/.cache
+Frontend/.next
+Frontend/out
+Frontend/coverage
+Frontend/.nyc_output
+Frontend/*.log
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*

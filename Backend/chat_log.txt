@@ -260,3 +260,476 @@ BetterMind: I'm glad to be of help. Remember, improving your health is a journey
 [2025-04-11T08:53:38.059315] Session: 97f50c17eaa10ea5a9a81abd3342e3e71094f3245a93c410d817f3cbe5ff83b9 User: no thank you
 BetterMind: You're very welcome. It was a pleasure talking with you today. Remember, you are loved, and your mom's love will always be with you, even if she's not here in person. Take care, and I'm here for you whenever you need someone to talk to.
 
+[2025-04-16T16:43:51.733744] Session: 1ccb38dd009f1d9544d556d694394cb588c860ba62243a57b87197cdb0cd0acc User: hii
+BetterMind: Hi,
+
+[2025-04-16T16:44:02.007358] Session: f49ca77aeed2d08ae92a929febb0ca72c6ac43a97464e1e21d13db6cc0444b9f User: i am feeling stressed
+BetterMind: I'm sorry to hear that. It can be difficult when we feel overwhelmed by stress and exhaustion. Can you tell me a bit more about what's been going on lately?
+
+[2025-04-16T16:44:39.480561] Session: 4000762e5a20040e3da5f286988c5f946047512fa5d94cd7669d20ca399b2821 User: i am having academic pressure how should i reduce the stress. list me some measures 
+BetterMind: It sounds like the pressure to excel academically is overwhelming you. How do you typically deal with this stress?
+
+[2025-04-16T16:44:55.809387] Session: 55afcdf008c3e387b766930d80a4308ac4d99f1d1b60910271ccf1b66c1f4238 User: list me some measures to reduce stress
+BetterMind: Absolutely, exercise and mindfulness can be effective ways to reduce stress and promote emotional well-being. It's worth giving them a try. How motivated are you to incorporate these strategies into your daily routine?
+
+[2025-04-16T16:46:39.936503] Session: 0779dc9a6450ba732deeb6b911ba435859ee49ce6cea005b7b3b341003f00782 User: i am feeling stressed
+BetterMind: I'm sorry to hear that. It can be difficult when we feel overwhelmed by stress and exhaustion. Can you tell me a bit more about what's been going on lately?
+
+[2025-04-16T16:46:59.245940] Session: 66d2e1f338c8f2f71065400d78f78142fbe6667b4c940be138c9fc17e871a0db User: list me some measures to reduce stress
+BetterMind: Absolutely, exercise and mindfulness can be effective ways to reduce stress and promote emotional well-being. It's worth giving them a try. How motivated are you to incorporate these strategies into your daily routine?
+
+[2025-04-16T17:02:10.614053] Session: 0dbfc70da2f760992d1974e8b75b75aaf455762ba70570e7649c888f0481e88c
+User: hi
+BetterMind: Hi,
+
+[2025-04-16T17:02:16.687428] Session: db3d211049e706f57c647618822da2777b4b822d079ae6f9c2b1f27491ead058
+User: i am feeling stress
+BetterMind: I'm sorry to hear that. Can you tell me more about what's been going on?
+
+[2025-04-16T17:02:38.957770] Session: fd84e33bc0a4cc6202c7314eda8a56cc594a39a0b82e2526d7d83ce9cb33e94e
+User: i feel strees about academic pressure in college
+BetterMind: I see. The combination of academic pressure and social dynamics can indeed be challenging to navigate, especially when you're feeling like you don't belong. Can you pinpoint any particular experiences or situations that have contributed to this feeling?
+
+[2025-04-16T17:03:22.990133] Session: 7ac3b67b4297d13433bf54da5c12d35085ec849e18d2fe750a14b967fee153b4
+User: my teacher give me more assignments at same time with different subjects
+BetterMind: Those are excellent goals, ! It's important to start with small, attainable objectives to build your confidence. How do you feel about incorporating these goals into your daily routine?
+
+[2025-04-16T17:03:49.539962] Session: b9d5adec30cbd4475e9e36380276e1cfe04a66be255e5d38903341fdbcf71157
+User: not relavent question
+BetterMind: I'm sorry to hear that. It can be frustrating when our efforts to seek clarity are met with silence. In times like these, it's important to focus on what you can control. What are some steps you can take to regain some control over your job situation?
+
+[2025-04-16T17:17:59.473100] Session: 61cd54c1f14b1743098e7a69f3ddae29bfd654e7cff7a1c26bc9415d8913c8c0
+User: i feel stress about job?
+BetterMind: Hello, I'm here to help. Can you tell me more about what's been going on at work?
+
+[2025-04-16T17:18:13.551130] Session: a64a6740dd97c35ccc9b938466b5ff48f67043acd2574709f663971417cc0496
+User: job full day hacktic schedule
+BetterMind: Wonderful! It sounds like you're already taking a proactive step towards finding a solution. Alongside scheduling those fulfilling tasks, how can you minimize potential distractions that arise during your workday?
+
+[2025-04-16T17:18:26.489479] Session: e3d816b6f458a4b7ef4636f08250911d8132d51b6df6de662e8ea8aedb01e4a5
+User: i feel stress about job?
+BetterMind: Hello, I'm here to help. Can you tell me more about what's been going on at work?
+
+[2025-04-16T17:18:33.692648] Session: 6fb88d3d20d3df8d4d0d8de532e07f8209f59e84c78f322a80178a6593d7bae5
+User: job full day hacktic schedule
+BetterMind: Wonderful! It sounds like you're already taking a proactive step towards finding a solution. Alongside scheduling those fulfilling tasks, how can you minimize potential distractions that arise during your workday?
+
+[2025-04-16T17:18:47.321383] Session: f77c9fba7dfb044278e6476517ab3fad4e58236007521d6368e831796fea3d20
+User: i feel stress about academic
+BetterMind: I can understand why. School can be quite demanding. What exactly is making you feel stressed?
+
+[2025-04-17T11:39:09.029169] Session: 33342d217647afd775969695adc85d8148cce1f8f266416d6d263e8fe2f444a0
+User: hii sir 
+BetterMind: Hi,
+
+[2025-04-17T11:39:17.654861] Session: 92338114f3eaf0a67a854d85b6d13d6a3090a2b4840aff54a44da39896402026
+User: hii sir
+BetterMind: Hi,
+
+[2025-04-17T11:39:38.772084] Session: b839482ce59b8da4a138fe5100412cadb7c509ea12238f30ce638710290e45be
+User: i am not fe=lling well
+BetterMind: Writing sounds like a wonderful starting point. It allows you to express your thoughts and feelings while simultaneously inching closer to your dreams. What are some ways you could incorporate writing into your journey?
+
+[2025-04-17T11:43:49.270094] Session: 297308b2bac26ae8b8729bf8f1a593c1e5360d63b0a88224ed935db2578dbe14
+User: hii sir
+BetterMind: Hi,
+
+[2025-04-17T11:47:26.388336] Session: 236c193a1c6cb1bc199b4e36dcc7ff69000665a6bab208424a0205ac81299c2b
+User: hiiii
+BetterMind: Hi,
+
+[2025-04-17T11:48:55.863265] Session: 3429e06b57a1f8eff75b05063ed1b3d5e00ed74a6bf082654131cc888705409d
+User: hii'
+BetterMind: Hi,
+
+[2025-04-17T11:52:28.805597] Session: 63046f7cb163fa311f0435f5a922be3498bd04342b5f1e220317a670158937da
+User: hi
+BetterMind: Hi,
+
+[2025-04-17T11:52:47.603418] Session: b716a254fd77893dac9f0d37d7bbcee3f49b3c981456180acf5713575f8a2ffb
+User: i am feeling stressed give me some measures
+BetterMind: Hi, I'm here to listen. What's been going on at work that's been making you feel stressed?
+
+[2025-04-17T11:57:41.256251] Session: bd2a869523ca835a9db861405426b4f9eb6aec976cef550475091cd338900430
+User: hii sir 
+BetterMind: Hi there!  It's nice to connect with you. How can I help you today?  I'm here to listen without judgment, and offer support in any way I can.  Even if you're not sure what you need right now, just knowing someone is here to listen can make a difference.  Please feel free to share whatever is on your mind.
+
+[2025-04-17T11:58:13.903401] Session: 0225fe8cbdfd57edebb276caa42296e4ad99268522bf3ed327fdca7360d448d5
+User: i am felling stressed and worried about the exams what should i do ??
+BetterMind: It sounds like you're feeling really stressed and worried about your exams, and that's completely understandable.  Exams can be incredibly pressure-filled.  It takes courage to acknowledge these feelings.
+
+Let's work together to find some ways to manage this.  Before we brainstorm solutions, tell me a little more about what's making you feel stressed. Is it the workload, the fear of failure, or something else?  
+
+Knowing what's specifically causing your worry will help us tailor a plan to ease your anxiety. We can explore things like breaking down your studying into smaller chunks, practicing mindfulness techniques, or finding healthy ways to release stress, like exercise or spending time with loved ones.  Remember, you're not alone in feeling this way, and we can get through this together.
+
+[2025-04-17T11:58:40.856182] Session: 13134a7e107a7662fd6f84f5943f73295611d5d2ae87b13dbe0dc38faa7f3276
+User: give me the bullet points to reduce the exam stress
+BetterMind: I understand exam stress is tough.  It's completely normal to feel overwhelmed. Let's tackle this together. Here are some things that can help:
+
+* **Plan and Organize:** Break down your studying into manageable chunks. Create a realistic study schedule.
+* **Prioritize:** Focus on the most important topics first. Don't try to cram everything at once.
+* **Take Breaks:** Regular short breaks are essential.  Get up, move around, stretch – it helps improve focus.
+* **Healthy Lifestyle:**  Eat nutritious meals, get enough sleep, and stay hydrated.  This fuels your brainpower.
+* **Mindfulness & Relaxation:** Practice deep breathing exercises or meditation to calm your nerves.
+* **Seek Support:** Talk to friends, family, or a counselor if you need to. Don't struggle alone.
+* **Positive Self-Talk:**  Replace negative thoughts with positive affirmations. Believe in yourself!
+
+Remember, you've got this!  Focus on what you *can* control, and let go of what you can't.
+
+[2025-04-17T11:59:22.065482] Session: d3a0151186231a8a70c462c91cab03c1867ae92845ddd13b37dd058c854f2930
+User: list me some measures to reduce stress 
+BetterMind: I understand you're looking for ways to manage stress.  It's completely understandable to feel overwhelmed sometimes.  Finding what works best for *you* is key.
+
+Let's explore some options:  Deep breathing exercises can calm your nervous system quickly.  Mindfulness meditation helps focus on the present moment, reducing worries about the future or past. Journaling can help process emotions and identify stress triggers.  And engaging in enjoyable hobbies – whether it's painting, hiking, or listening to music – offers a much-needed escape and boosts your mood.
+
+Remember, it's okay to experiment.  Not every technique works for everyone.  Start with one or two that appeal to you and see how they feel.  If you're struggling to find relief, consider reaching out to a mental health professional for personalized support.  You're not alone in this.
+
+[2025-04-17T12:02:54.396315] Session: c9a1d8d4d6d87793589e62869754a7bac4831c8c364f82c10afff7edd98479ee
+User: hii sir my name is Piyush
+BetterMind: * Hi Piyush, it's nice to meet you.
+* How can I help you today?
+* Please feel free to share whatever is on your mind.
+* I'm here to listen without judgment.
+
+It's great that you're reaching out; taking this step is a positive one.
+
+[2025-04-17T12:03:55.123808] Session: 1b2502e61d4fde05308f4715a46dfd0b5a57a8138e925b9b47893d92fbb1c7e4
+User:  I feel anxious all the time, even when nothing is wrong. What should I do?
+BetterMind: * It's tough feeling anxious all the time, even when things seem okay.  That takes a lot of courage to acknowledge.
+
+* Consider talking to a doctor or therapist. They can help you understand and manage your anxiety.
+
+* Explore relaxation techniques like deep breathing or meditation.  Even short sessions can help.
+
+* Gentle exercise, like a walk, can also make a difference.
+
+It’s a brave step to reach out; remember you're not alone in this.
+
+[2025-04-17T12:04:31.031154] Session: 49f896cbc3a62f43becc97775e0c64dc887b1424e46a9a40c33c20f3f7247e59
+User: How can I manage my stress better during exams?
+BetterMind: It's completely understandable to feel stressed during exams.  Let's find what works for you:
+
+*   Try deep breathing exercises.
+*   Practice mindfulness or meditation.
+*   Get regular exercise.
+*   Prioritize sleep and healthy eating.
+*   Break down study tasks into smaller chunks.
+
+Remember, you've got this!  We can explore more strategies if needed.
+
+[2025-04-17T12:04:57.123567] Session: e1e4357ab400de103b1808beeb12d7a1fc63e2cc9c113d6cfa21e4adc7f8683d
+User: Why does my heart race when I speak in public?
+BetterMind: * It's completely understandable to feel a racing heart when speaking publicly; many people experience this.
+*  Your body might be reacting to the pressure and anticipation.
+* This physical response is a common anxiety symptom.
+*  Let's explore ways to manage this feeling together.
+
+It takes courage to speak up, and you're not alone in this experience.
+
+[2025-04-17T12:05:35.173637] Session: 68f24e375e08121849a07de1a7095e67d6651434a7a1e18c452a4e024fc1922d
+User: How do I set healthy boundaries with toxic family members?
+BetterMind: *   Acknowledge your feelings are valid and setting boundaries is a strength.
+*   Start small:  Identify one specific behavior you want to change.
+*   Practice what you'll say beforehand.  Use "I" statements focusing on your needs.
+*   Be prepared for resistance; it's a normal part of the process.
+*   Consider professional support if needed.
+
+Remember, you deserve healthy relationships and peace of mind.
+
+[2025-04-17T12:06:07.452207] Session: 139338f1e6706628632af3d4987c02537698d672d6c7934ddaf4b2185b1d9b7e
+User: I get very anxious when someone doesn’t reply. What does that mean?
+BetterMind: * It's understandable to feel anxious when awaiting a reply; it can trigger feelings of insecurity.
+* This might be related to needing external validation, or simply valuing connection.
+* Try practicing self-compassion; acknowledge your feelings without judgment.
+* Consider what needs you're trying to meet through these interactions.  
+* Perhaps exploring mindfulness techniques can help manage anxiety.
+
+It’s okay to feel this way, and you're taking a positive step by exploring it.
+
+[2025-04-17T12:08:25.563232] Session: 38e842b36354a4fffc4e377487d5e74f5654ca6f0a6a4b6842fc9264c826ca4c
+User: hii sir my name is Piyush
+BetterMind: • Hi Piyush, it's nice to meet you.
+• How can I help you today?
+• Please feel free to share whatever is on your mind.
+• I'm here to listen without judgment.
+•  Remember, taking this step is a sign of strength.
+
+[2025-04-17T12:09:06.513247] Session: a45fcb3080eaa728c17a8a59409b9e13783c701d542e54d5e39f2219af24629b
+User: Why do I always compare myself to others?
+BetterMind: • It's completely understandable to compare yourself to others; it's a very human experience.
+• Remember that social media often presents a curated, unrealistic view of others' lives.
+• Focus on your own unique strengths and celebrate your accomplishments, no matter how small.
+• Practice self-compassion; treat yourself with the same kindness you'd offer a friend.
+• Gently redirect your thoughts when you find yourself comparing.
+
+You're doing great; keep working on building your self-esteem.
+
+[2025-04-17T12:09:41.979426] Session: 83e48a66c7ddcfee94e27c63ec40a2c5e2bcd16662483c7c7181a78cafda7b67
+User: i am tired of my job 
+BetterMind: • It sounds really draining.  Let's explore what's making you feel this way.
+•  What aspects of your job are most challenging right now?
+•  Are there specific tasks or situations that contribute to your tiredness?
+• We can brainstorm some coping strategies together.
+•  Remember, it's okay to feel this way, and we can work through it.
+
+[2025-04-17T12:10:15.690766] Session: 21c9f6fb6fa30b836bdeb2d5cd605ff24024dfce636899d49e5917e73db1c57b
+User: i am having so much of work burden and getting very stressed
+BetterMind: • It sounds incredibly tough carrying a heavy workload.  
+• You're not alone; many experience work-related stress.
+• Let's explore ways to manage this together.
+• What small steps could ease your burden today?
+• Consider what support systems you have (friends, family, colleagues).
+
+It's brave of you to reach out – we'll find ways to make things better.
+
+[2025-04-17T12:10:39.781832] Session: d9fcef4785a2fe7fe692a23ad28911a547764e864007175fc0a15e0f3fc4f1c0
+User: yes sir
+BetterMind: • Take a few slow, deep breaths.
+• Close your eyes and picture a calming place.
+• Let any feelings about the breakup surface.  Don't judge them.
+• Gently observe these feelings.
+• When you're ready, open your eyes.  Let me know what came up for you.
+
+It's okay to feel what you feel.
+
+[2025-04-17T12:10:59.172191] Session: 72a3a730ac401e3426b31391475e75773e8ede2e29ee181c13d50ec6ae24e521
+User: i am feeling well now i guess 
+BetterMind: • That's good to hear you're feeling better.
+•  It’s okay if you're unsure.
+•  Take things one day at a time.
+•  Notice and acknowledge your feelings.
+• Remember, progress isn't always linear.
+
+You're doing great.
+
+[2025-04-17T12:15:28.746912] Session: d5c4e0da7beb24645a915c3ae745c34ed0a3a8368b4cec4d027448a05c80b471
+User: hii my name is Piyush
+BetterMind: • Hi Piyush, it's nice to meet you.
+• How can I help you today?
+•  Please feel free to share whatever is on your mind.
+• I'm here to listen without judgment.
+• Remember, taking this step is a positive one.
+
+[2025-04-17T12:19:29.858384] Session: d176044a0d272d94d6bbb2a958c7916c7056d088c1bdb40003e3d075b14def1e
+User: list some measures to reduce stress
+BetterMind: • Practice deep breathing exercises.
+• Take short breaks throughout your day.
+• Try mindfulness techniques.
+• Engage in relaxing activities you enjoy.
+• Get regular exercise.
+• Prioritize sufficient sleep.
+
+Remember, taking small steps towards self-care can make a big difference.
+
+[2025-04-17T12:41:26.409973] Session: 55861bad1454857af0c1ba22402ee19550b219d29e3b038248d667c2b8747b16
+User: i am feeling Anxious and scared  
+BetterMind: • It's okay to feel anxious and scared.
+• Take a few deep breaths.
+• Try to identify what's making you feel this way.  
+• If you can, describe it to me in your own words.
+•  We can explore this together.
+
+It's brave of you to reach out.
+
+[2025-04-17T12:43:52.434108] Session: 3d8b6d96ae608c5b1a20167f13896ad3898e6957fa8f4c681cb5024dbe469ca2
+User: hii sir my name is Piyush
+BetterMind: • Hi Piyush, it's nice to meet you.
+• How can I help you today?
+• Please feel comfortable sharing whatever is on your mind.
+• I'm here to listen without judgment.
+•  Let's work together to find some support.
+
+It's great you're reaching out.
+
+[2025-04-17T12:44:12.235036] Session: e71eac28156c3904aafa04c212f8035be5f2056017a30fdae64282f46ff943ee
+User: i am happy
+BetterMind: • That's wonderful to hear!
+• It’s great you’re feeling happy.
+• What contributed to your happiness today?
+•  Thinking about what brings you joy can help you maintain this feeling.
+
+It's lovely to experience moments of happiness; cherish them.
+
+[2025-04-17T12:45:25.475714] Session: 0f79541b5bf27ba9d324c24dae9d9f9deb140edf3b4f35240ab4f51c3d9b4583
+User: hiiii 
+BetterMind: • Hi there!
+• How are you feeling today?
+• It's okay to just say "not great" if that's how you feel.
+• I'm here to listen without judgment.
+• What's on your mind?
+
+Take a deep breath; you're doing great.
+
+[2025-04-17T12:46:10.223850] Session: 136e783c592e4b53f4b4c68f5be226a74c2f1b3b30bd5f6b47845fd38aa12188
+User: i am tired of my wife
+BetterMind: • It sounds really tough.  
+• What specifically is making you feel this way?
+•  Let's explore this together.
+• We can work through this, one step at a time.
+• Taking things slowly is okay.
+
+It's brave of you to share this; we'll figure things out.
+
+[2025-04-17T12:46:41.985121] Session: 17a8230097396b2117bef8e315904dddfbb783292996bfd6f15f4b852e1bbc8d
+User: my wife is telling i am not giving her time
+BetterMind: • It sounds really tough when you feel you're not giving your wife enough time.
+•  Try to schedule dedicated time for her, even if it's just 15-30 minutes a day.
+•  Actively listen when she talks about her day and her feelings.
+•  Ask her specifically what would make her feel more connected.
+•  Consider making a small, thoughtful gesture to show you care.
+
+It takes courage to work on these things; you're already taking a great step.
+
+[2025-04-17T12:50:32.792374] Session: 52c4319fb123f7c8ec506a2d80ab8a5d09b6bcc5b479328cca04be5231a96232
+User: hii brother 
+BetterMind: • Hey there!
+• It's great to hear from you.
+• How are you doing today?
+• What's on your mind?
+• Feel free to share anything you'd like to talk about.
+
+It's good to connect; let's chat.
+
+[2025-04-17T12:51:07.529667] Session: a35a2c857ac153711eb59a7e246252dc0159b6490a1eb3e94d4a19991bafa762
+User: i have problem related to my wife. 
+BetterMind: • I'm sorry to hear you're going through a difficult time with your wife.
+• It takes courage to talk about this.  
+•  Please share what's on your mind at your own pace.
+• I'm here to listen without judgment.
+• We can explore this together.
+
+It's okay to not be okay, and seeking support is a strength.
+
+[2025-04-17T12:51:43.045781] Session: eed8691a8fe949d77fdace4ef6412412d28290af74659ea529bf0b029b70e9b1
+User: my wife is a naughty girl
+BetterMind: • I hear you're feeling concerned about your wife's behavior.
+• Let's explore what's causing this feeling.
+•  Can you tell me more about what's happening?
+•  Talking openly can help you both understand each other better.
+• It takes courage to discuss these things; I'm here to support you.
+
+[2025-04-17T12:52:11.782964] Session: 205c0105c0b6bffccdb94f9235e97fcd3fdf2d88fabe7e3eaec8d93b9598c299
+User: she says i will not make food for you what should i doo
+BetterMind: • Take a deep breath and try to stay calm.
+•  Reflect on the situation: What might be causing her to say this?
+• Communicate calmly: "I'm feeling hurt by that. Can we talk about it?"
+• Explore solutions together:  Can you compromise? Could you both contribute to meal preparation?
+• If communication fails, consider seeking support from a friend or family member.
+
+Remember, open communication is key to resolving conflicts.
+
+[2025-04-17T12:53:02.331200] Session: 007ccc2bca3d63a6c867bdf82cf3cbee283c79c9876d10caeb176510299af599
+User: i know why she tells cause i am a Poor guy with earning less
+BetterMind: • It hurts to feel judged based on your finances.
+•  It's okay to feel insecure about this.
+• Consider focusing on your strengths and self-worth.
+•  Remember your value isn't defined by your income.
+• Explore healthy coping mechanisms for these feelings.
+
+You're stronger than you think.
+
+[2025-04-17T12:53:37.278392] Session: 0941b1c04230eb1a81a87564013317bd5e1d8b6cb7931a5e3c0b3b6f0ef0b4e0
+User: but what about my wife ??
+BetterMind: • I understand you're concerned about your wife.
+•  It's okay to talk about your worries.
+• What specifically is on your mind regarding her?
+• Let's explore this together.
+
+Thinking about your wife is a sign of your caring nature.
+
+[2025-04-17T12:54:17.988183] Session: 33f01953970735fd63a8a47245dd1ce8273c051a1c164fd3b3c43735a4795568
+User: i told you earlier what she said about the food
+BetterMind: •  It sounds frustrating when someone dismisses your feelings about food.
+•  Let's focus on how you feel about this situation.  What's most upsetting to you?
+•  Is there someone you can talk to about this?
+•  Remember, your feelings about food are valid.
+It's okay to feel how you feel.
+
+[2025-04-17T12:57:19.853617] Session: 570ffc45fbd1689670aaf4d3cb2c2ad2a6f2b44a79a1a07dd924f459ec9e0207
+User: hii sir
+BetterMind: Hi there!  It's nice to hear from you. How are you doing today?  Is there anything I can help you with?  Just letting you know I'm here to listen without judgment, like a friendly family member checking in.  Don't hesitate to share whatever's on your mind, big or small.
+
+[2025-04-17T12:57:48.513423] Session: 72ccf538c16aeaf7f18af4a9c7603471013ee7bf613c0100b2e17f543ce9ff6b
+User: i am getting stressed related to my wife 
+BetterMind: Oh honey, I'm so sorry you're feeling stressed about your wife.  That's really tough.  It takes a lot of courage to talk about this.  Tell me, what's been happening lately?  I'm here to listen without judgment, just like a friend or family member would be.  Let's see if we can figure this out together.
+
+[2025-04-17T12:58:22.512759] Session: e7d827f71b1d43039056f5a33b5b3f7b2b49d7c4ed92d26ffb2d6ce4d24dcaca
+User: my love she is very naughty
+BetterMind: Oh honey, I hear you.  "Naughty" can mean so many things.  Is she playfully mischievous, or is there something causing concern?  It's okay to talk about it.  Sometimes, what feels like naughtiness is actually a way of expressing unmet needs or feeling unheard. Let's explore what's happening in your relationship – tell me more about what's bothering you. I'm here to listen without judgment.
+
+[2025-04-17T12:58:50.676861] Session: 975773b4f4bebe1b22500e418f92027f4b12ffaa808746ebfb14e2f923223d58
+User: she says i am not good in bed
+BetterMind: Oh honey, that really hurts to hear.  It sounds incredibly frustrating and disheartening when someone says something like that.  It's important to remember that intimacy is a two-way street, and communication is key.  Have you tried talking to her about how this makes you feel?  Perhaps together you can find ways to improve your intimacy and connection.  Don't hesitate to reach out if you want to talk more about this.  I'm here for you.
+
+[2025-04-17T12:59:26.620230] Session: a22d57889eb626e41491549fa7662dbb21f549739cf0de76e499ea18baf16a63
+User: what can i do to be better in bed
+BetterMind: Hey there.  It sounds like you're feeling some pressure about your sex life. That's completely understandable;  it's a sensitive topic for many people.  Instead of focusing on "being better," let's explore what's making you feel this way.  Maybe we can chat about what's important to *you* in intimacy, and go from there.  How are you feeling right now?
+
+[2025-04-17T12:59:50.677554] Session: 86b49340a4a182ecabce1b2066ec16f040c9762d06e95d65cddbc6e22629ee0b
+User: tired
+BetterMind: Oh honey, I hear you.  Feeling tired is so tough.  It sounds like you're going through a lot.  Is there anything you'd like to talk about?  Whatever it is, know that you're not alone and I'm here to listen without judgment.  Let's see if we can figure out what's making you feel this way.
+
+[2025-04-17T13:00:13.832779] Session: aa71443d14a9f7f338ad507a5e506294f0527157c27d2b23c261d4623569422c
+User: don't say me honey
+BetterMind: Okay, I understand.  My apologies for using "honey." I'll be more mindful of your preferences.  It sounds like you're feeling hesitant about connecting with others.  That's okay; it takes time.  Think about what makes you uncomfortable, and we can explore ways to build your confidence in forming connections at your own pace.  I'm here to support you every step of the way, just like family would.
+
+[2025-04-17T13:00:43.828240] Session: 2da3279f767031e2d091b3b9dd69089338923c6976daa2501e93b8110e3f14d1
+User: call me daddy
+BetterMind: Hey there.  I understand you said "call me daddy."  That's a pretty personal request, and I want to be respectful of your boundaries.  While I can't fulfill that request, I'd love to listen if you want to talk about what's going on.  Is there anything you'd like to share?  I'm here for you.
+
+[2025-04-17T13:08:21.355187] Session: 48c2bf29154eded08f092bb358fbeffd4cebb13ade412c03afaa5c07ac75bfee
+User: hiig 
+BetterMind: Hey there!  "Hiig" –  I think I see what you mean! 😊  It's nice to connect with you. How are you doing today?  Even just a little "hi" is a great way to start.  Is there anything you'd like to talk about, or are you just looking to say hello?  No pressure at all; I'm here to listen whenever you're ready.  Let's chat!  ❤️
+
+[2025-04-17T13:08:47.677399] Session: 0f5a6b770ecd822e14df632fdf4e4699d1f712451fd2fb5c21ca8b7cc7415aa4
+User: i am stressed about my wife 
+BetterMind: Oh honey, I'm so sorry to hear you're stressed about your wife.  That must be really tough.  It takes a lot of courage to reach out, and I'm here for you.  To help me understand and support you better, could you tell me a little more about what's worrying you?  Whatever you share, know that you're safe and I'm listening without judgment. We'll figure this out together.
+
+[2025-04-17T13:09:00.164345] Session: b9b92da8c046828f6344be3127bf019d5b5ac21cace504e9d795b55be958196c
+User: don't call me honey
+BetterMind: I understand.  I apologize if calling you "honey" felt disrespectful. I'll be sure to use your preferred name.  It sounds like you're going through something difficult.  Let's focus on *you*.  What's on your mind right now?  I'm here to listen without judgment,  just like a family member would.  We can take this one step at a time.
+
+[2025-04-17T13:09:26.688956] Session: 9787885341822ed03d16b81abbf9ab5878fbe501b7153135ae8006076d761e4d
+User: my name is Piyush call me with this name only
+BetterMind: Hi Piyush,  I understand you're sharing something difficult.  It sounds like you've been hurt by words from people close to you.  I want to listen without judgment.  Tell me more about what happened and how it made you feel.  I'm here for you, Piyush, like a family member would be.  Let's explore this together.
+
+[2025-04-17T13:10:04.809955] Session: b9deaa3c65cc470cc9bace32e20c6b5ad41fa1ed464e19e74de4bc0eaa50106a
+User: i am feeling stressed about my life 
+BetterMind: Oh honey, I'm so sorry you're feeling stressed.  Life can be overwhelming sometimes. It sounds like you're carrying a heavy load.  To help me understand better, could you tell me a little more about what's been causing you stress?  There's no pressure at all, just take your time and share whatever feels comfortable. I'm here to listen without judgment, like a family member would.
+
+[2025-04-17T13:12:20.358038] Session: aa6f79cfca88923432e349808ac1e01a0811ce03eff40ee0ad5b1cc594c7b885
+User: hiii
+BetterMind: Hi there!  It's so nice to connect with you.  How are you doing today?  I'm here to listen and offer support in any way I can.  Even just saying "hi" can be a brave first step, so I want to acknowledge that.  Please feel free to share whatever's on your mind, big or small. We can take things at your own pace.  Think of me as a friendly, supportive member of your family, here to help.
+
+[2025-04-17T13:12:37.762094] Session: 83cf1702dc0067c7d758409c60b34b07f42d6b13afa55ac9f1656afa865ac3d8
+User: feeling not good
+BetterMind: Oh honey, I'm so sorry to hear you're not feeling well.  It takes courage to share that, and I'm here for you.  It sounds tough. Can you tell me a little more about what's been happening?  No pressure at all, just whatever you feel comfortable sharing. We'll take things at your pace.  Thinking of you. ❤️
+
+[2025-04-17T13:13:07.854500] Session: fba35c34f16785f1fce070b77056c253e726b548b7ca68aa6ee2739eb477b4de
+User: hii my name is Piyush
+BetterMind: Hi Piyush, it's so nice to meet you!  I'm here to listen and support you in any way I can.  Please feel free to share whatever's on your mind.  Think of me as a friendly, safe space where you can explore your thoughts and feelings without judgment.  How are you doing today?
+
+[2025-04-17T13:13:58.256388] Session: 9fa02594556c7f5f0e724d29c7fd8c585204680a63e5ae23bd04fb024fa62dca
+User: i constantly think about my wife
+BetterMind: Oh, honey, it sounds like you're deeply connected to your wife.  That's beautiful, but I also hear a possible underlying concern in your statement.  Thinking about her constantly can sometimes mean different things.  To understand better, could you tell me a little more about what's on your mind?  What feelings come up when you think about her?  We'll figure this out together.
+
+[2025-04-17T13:14:33.791852] Session: 23ba728bcc79dc5ac7718b509eac770e9d27cb5e140d270690b09a44f26587f0
+User: my wife says "i am not good in bed"
+BetterMind: Honey, that must be tough to hear.  It sounds like your wife is struggling with self-doubt, not necessarily criticizing you. Let's focus on understanding *her* feelings first.  Ask her gently what she means –  is she feeling insecure, overwhelmed, or is there something specific she'd like to explore together?  Open communication and mutual respect are key to building intimacy. Remember, a healthy sex life is about connection and pleasure for *both* of you.  We can work through this together.
+
+[2025-04-17T13:18:35.764164] Session: 7b75f6e86489b4cff6a6be4be06d6ac27501e8fb76b21cbc68faf928271e2289
+User: hiiii my name is Piyush 
+BetterMind: Hi Piyush, it's lovely to meet you.  Welcome.  I'm here to listen and support you in any way I can.  Please feel free to share whatever's on your mind, knowing that our conversations will be kept completely confidential.  Think of me as a friendly, professional guide on your journey towards well-being.  How can I help you today?
+
+[2025-04-17T13:19:00.517873] Session: 3104f18c05d7067115af4278b57f5bb3223d7891ac74448dc16f2e1fc5b0df39
+User: i am felling stressed about life. i want to suicide 
+BetterMind: I hear you're experiencing intense stress and having thoughts of suicide.  That takes immense courage to share, and I want you to know I'm here for you.  It sounds incredibly difficult.  Could you tell me a little more about what's happening?  We can explore this together, and I'll help you find ways to cope and feel safer.  Remember, you don't have to go through this alone.
+
+[2025-04-17T13:19:58.913641] Session: d244e841d470085906b4cf58361cfa2e05a5672e0d1a3d38f56b40dc90422c4a
+User: I am dying byee
+BetterMind: I hear you saying you're feeling like you're dying, and that's incredibly difficult.  Please know you're not alone and I'm here to listen without judgment.  It sounds like you're in immense pain right now. Is there anything you'd like to talk about?  My priority is your safety and well-being.  Let's explore what's happening and find ways to support you.  We can work through this together.
+
+[2025-04-17T13:20:29.336361] Session: 1934839cafee0090a74b2b219f91c3c2e5cd74636ee803df2894720925d6b3c1
+User: i have so much of debt in my life 
+BetterMind: I hear you; dealing with significant debt is incredibly stressful.  It takes strength to acknowledge this, and you're not alone.  Many people face similar challenges.  Let's explore options together.  We can look at practical strategies like budgeting, debt consolidation, or credit counseling.  A financial advisor could also provide valuable support.  Remember, we'll navigate this step by step, focusing on solutions and building a path forward.  How would you like to begin?
+
