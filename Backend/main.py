@@ -20,7 +20,7 @@ LOG_FILE_PATH = os.path.join(os.path.dirname(__file__), "chat_log.txt")
 MAX_HISTORY_TURNS = 3
 session_memory = {}
 
-google_api_key = "Your - API - Key"
+google_api_key = "Your Google API Key"
 genai.configure(api_key=google_api_key)
 gemini_model = genai.GenerativeModel("gemini-1.5-flash-latest")
 
