@@ -14,13 +14,13 @@ import traceback
 import google.generativeai as genai
 
 MODEL_NAME = "all-MiniLM-L6-v2"
-INDEX_PATH = r"E:\Github\mental-health-bot\Model\faiss_index.idx"
-DATA_PATH = r"E:\Github\mental-health-bot\Data\cleaned_data.csv"
+INDEX_PATH = r"D:\Github\mental-health-bot\Model\faiss_index.idx"
+DATA_PATH = r"D:\Github\mental-health-bot\Data\cleaned_data.csv"
 LOG_FILE_PATH = os.path.join(os.path.dirname(__file__), "chat_log.txt")
 MAX_HISTORY_TURNS = 3
 session_memory = {}
 
-google_api_key = "Your Google API Key"
+google_api_key = "AIzaSyBQrTJFsVZ_Ydn5O8opGqL0MfZrVaCDj_U"
 genai.configure(api_key=google_api_key)
 gemini_model = genai.GenerativeModel("gemini-1.5-flash-latest")
 

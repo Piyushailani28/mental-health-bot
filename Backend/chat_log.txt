@@ -1012,4 +1012,23 @@ BetterMind: Oh, I see you'd like to play Rock, Paper, Scissors!  That sounds lik
 
 [2025-04-18T16:03:19.317007] Session: 7a72ff1628042a722034c0766e4c9829aaa6e608739b1cd5b2641c5f48922e5d
 User: i don't play that instrument
-BetterMind: It sounds like you might have been asked about playing a particular instrument.  That's perfectly alright!  It's completely okay to not play every instrument.  Perhaps we can explore what sparked that question, or what else is on your mind today?  I'm here to listen and support you in whatever way feels comfortable.  Let's chat.
+BetterMind: It sounds like you might have been asked about playing a particular instrument.  That's perfectly alright!  It's completely okay to not play every instrument.  Perhaps we can explore what sparked that question, or what else is on your mind today?  I'm here to listen and support you in whatever way feels comfortable.  Let's chat.[2025-04-23T14:09:34.643483] Session: f373a455528b33492701f9642c4bc972c5da3d7a7926330895764d526b0e1a80
+User: hiii my name is Piyush
+BetterMind: Hi Piyush, it's lovely to meet you.  I'm here to help in any way I can.  My role is to support you, and I'll do my best to create a safe and comfortable space for us to work together.  There's no need to feel pressure; we can take things at your pace.  To start, perhaps you could tell me a little about what's on your mind today?
+
+[2025-04-23T14:09:59.166007] Session: 60078c7a5808b6cb660737cae6bc6573ba5dfaab98f88356b8efb998ba6a8150
+User: suggest me some measure to reduce Stress
+BetterMind: It sounds like you're feeling stressed, and I'm here to help.  We can explore some stress-reducing strategies together.  Deep breathing exercises can calm your nervous system instantly.  Mindfulness meditation cultivates present moment awareness, reducing overthinking. Journaling helps process emotions and gain perspective.  Finally, engaging in enjoyable hobbies offers a healthy distraction and boosts your mood. Let's find what resonates best for *you*.  We'll work together to find what feels most supportive.
+
+[2025-04-25T13:56:55.712324] Session: 3540a30ba918f10412090e84279c9e2eebaabd4676afd32679b7d89b9553f962
+User: hii my name is Daya
+BetterMind: Hi Daya, it's lovely to meet you.  Welcome.  I'm here to listen and support you in whatever way I can. Please feel free to share anything that's on your mind, knowing that our conversations will be kept confidential and treated with the utmost respect and professionalism.  Think of me as a supportive guide on your journey. How can I help you today?
+
+[2025-04-25T14:03:25.206604] Session: ceb30d7432a266a2e4d55a351d9307366486ee944f649cd25906c7957036c5ba
+User: hii
+BetterMind: Hi there.  It's nice to connect with you. How can I help you today?  I'm here to listen without judgment and offer support in any way I can.  Please feel free to share whatever is on your mind, knowing that our conversation will remain confidential.  Let's work together to explore what's important to you.
+
+[2025-04-25T14:03:35.312518] Session: 2bab43806f8f717a86e4937bc384be109a5550589bf0ddb46de0df60aa7ba4fb
+User: hello there 
+BetterMind: Hello there!  It's nice to connect with you.  How can I help you today?  I'm here to listen without judgment and offer support in any way I can.  Please feel free to share whatever is on your mind, knowing that our conversation will remain completely confidential.  We can work together to explore what's important to you and find ways to move forward.
+
